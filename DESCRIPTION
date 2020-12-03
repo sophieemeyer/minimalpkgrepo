@@ -1,0 +1,15 @@
+Package: minimalpackage
+Title: Raise Number to Another Then Subtract
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Sophie",
+           family = "Meyer",
+           role = c("aut", "cre"),
+           email = "s.meyer@mpp.hertie-school.org",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: This package takes one number and raises it to another before subtracting a third number.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
